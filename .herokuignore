@@ -1,0 +1,11 @@
+# Heroku ignore file
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+.pnpm-debug.log*
+.git/
+.gitignore
+README.md
+.vscode/
+.idea/
+
