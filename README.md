@@ -11,6 +11,8 @@ Türkiye'deki yatırımcılar için ETF (Exchange Traded Fund) ve BES (Bireysel 
 
 Bu uygulama, yatırımcıların kendi kişisel parametrelerini girerek ETF ve BES yatırım seçeneklerini detaylı bir şekilde karşılaştırmasını sağlar. Stopaj, devlet katkısı, yönetim ücretleri ve bileşik faiz etkilerini dikkate alarak hangi yatırım türünün daha avantajlı olduğunu gösterir.
 
+![resim](https://github.com/user-attachments/assets/7338d643-cf65-4f25-af20-dba979e20952)
+
 ## ✨ Özellikler
 
 ### 📊 Kapsamlı Hesaplama Motoru
